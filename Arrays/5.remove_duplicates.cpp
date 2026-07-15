@@ -24,7 +24,7 @@ int main(){
             i++;
         }
     }
-    for(auto it:arr) cout<<it<<" ";
+    for(int i=0;i<n;i++) cout<<arr[i];
     cout<<endl<<i+1;
 
 
